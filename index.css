@@ -1,0 +1,33 @@
+ body{
+                 
+                    background-color: #000;
+                  
+                    background-size: 99% 99%;
+                 background-position: 20%;
+                color:white;
+                
+                
+                
+            }
+            .h1one{
+                text-align: center;
+                color:yellow;
+                text-decoration: underline;
+            }
+            article{
+                font-weight: bolder;
+               
+                line-height: 100%;
+            }  
+            .pone,.ptwo{
+                color:red;
+                display:inline;
+            }
+            div{
+                margin-left: 30px;
+                display: inline;
+                float: left;
+            }
+            span{
+                line-height: 200%
+            }
